@@ -14,4 +14,4 @@ Bien que l’interface soit présentée ici avec un STM32, elle peut être utili
 
 💻 Python • Tkinter • PySerial • Serial Communication • Embedded Systems
 
-
+programm final stmka.py
